@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+██╗  ██╗ █████╗ ███████╗████████╗██╗   ██╗██████╗ ██╗    ████████╗███████╗     ██╗ █████╗
+██║ ██╔╝██╔══██╗██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║    ╚══██╔══╝██╔════╝     ██║██╔══██╗
+█████╔╝ ███████║███████╗   ██║   ██║   ██║██████╔╝██║       ██║   █████╗       ██║███████║
+██╔═██╗ ██╔══██║╚════██║   ██║   ██║   ██║██╔══██╗██║       ██║   ██╔══╝  ██   ██║██╔══██║
+██║  ██╗██║  ██║███████║   ██║   ╚██████╔╝██║  ██║██║       ██║   ███████╗╚█████╔╝██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝       ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═╝
+```
+
 ### 🌩️ Cloud Computing Enthusiast | Linux & AWS | Python & Bash
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -48,7 +57,7 @@ $ cat interests.txt
 
 ## 🚀 Featured Project
 
-### 🐧 [Linux Server Deployment and Administration on AWS](https://github.com/your-username/linux-aws-deployment)
+### 🐧 [Linux Server Deployment and Administration on AWS](https://github.com/kasturiteja-h/linux-aws-deployment)
 
 > Deployed and administered a production-ready Ubuntu server on AWS EC2
 
@@ -69,11 +78,11 @@ $ cat interests.txt
 
 <div align="center">
 
-![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true)
+![Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasturiteja-h&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasturiteja-h&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=kasturiteja-h&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -105,6 +114,6 @@ strengths = [
 
 ### 🌐 "Learning by doing — one server at a time."
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=kasturiteja-h&color=0e75b6&style=flat)
 
 </div>
